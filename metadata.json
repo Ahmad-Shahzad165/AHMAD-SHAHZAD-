@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Breaker",
+  "description": "An endless retro-arcade pixel brick-breaker with infinite levels, procedural layouts, and pixel art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

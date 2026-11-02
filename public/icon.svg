@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#020208"/>
+  <rect x="32" y="32" width="448" height="448" rx="80" fill="#0a0918" stroke="#ff5500" stroke-width="8"/>
+  
+  <!-- Pixel grid bricks -->
+  <g fill="#00e5ff">
+    <rect x="96" y="96" width="36" height="24" rx="4"/>
+    <rect x="140" y="96" width="36" height="24" rx="4"/>
+    <rect x="184" y="96" width="36" height="24" rx="4"/>
+    <rect x="292" y="96" width="36" height="24" rx="4"/>
+    <rect x="336" y="96" width="36" height="24" rx="4"/>
+    <rect x="380" y="96" width="36" height="24" rx="4"/>
+
+    <rect x="96" y="128" width="36" height="24" rx="4"/>
+    <rect x="380" y="128" width="36" height="24" rx="4"/>
+  </g>
+  
+  <!-- Yellow heart pixel art in center -->
+  <g fill="#ffd700">
+    <rect x="184" y="160" width="32" height="24" rx="4"/>
+    <rect x="220" y="160" width="32" height="24" rx="4"/>
+    <rect x="260" y="160" width="32" height="24" rx="4"/>
+    <rect x="296" y="160" width="32" height="24" rx="4"/>
+    
+    <rect x="160" y="192" width="44" height="24" rx="4"/>
+    <rect x="212" y="192" width="88" height="24" rx="4"/>
+    <rect x="308" y="192" width="44" height="24" rx="4"/>
+    
+    <rect x="184" y="224" width="144" height="24" rx="4"/>
+    <rect x="212" y="256" width="88" height="24" rx="4"/>
+    <rect x="238" y="288" width="36" height="24" rx="4"/>
+  </g>
+
+  <!-- Glowing Ball with motion streak -->
+  <circle cx="256" cy="356" r="14" fill="#ffffff" filter="drop-shadow(0 0 12px #00ffff)"/>
+  
+  <!-- Glowing Orange-Red Paddle -->
+  <rect x="156" y="416" width="200" height="22" rx="11" fill="#ff4500" stroke="#ffaa00" stroke-width="4" filter="drop-shadow(0 0 16px #ff4500)"/>
+</svg>
